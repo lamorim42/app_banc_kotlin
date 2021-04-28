@@ -6,6 +6,6 @@ Nesse projeto utilizamos conceitos básicos de desenvolvimento android como Recy
 
 ## Screamshots:
 
-![](/home/luishads/AndroidStudioProjects/LiveDIO/photo01.png)
+![](/LiveDIO/photo01.png)
 
 ![](/home/luishads/AndroidStudioProjects/LiveDIO/photo02.png)
