@@ -6,6 +6,4 @@ Nesse projeto utilizamos conceitos básicos de desenvolvimento android como Recy
 
 ## Screamshots:
 
-![](https://github.com/luishads/app_banc_kotlin/blob/master/photo01.png)
-
-![](https://github.com/luishads/app_banc_kotlin/blob/master/photo02.png)
+![](https://github.com/luishads/app_banc_kotlin/blob/master/photo03.png)
